@@ -1,0 +1,16 @@
+{
+  "name": "wabot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "dotenv": "^16.4.0",
+    "express": "^4.19.0",
+    "pino": "^8.19.0",
+    "qrcode": "^1.5.3"
+  }
+}
